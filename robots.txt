@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://robinbbiosci.github.io/RobinBBiosci//sitemap.xml
+Sitemap: https://robinbbiosci.github.io/sitemap.xml
