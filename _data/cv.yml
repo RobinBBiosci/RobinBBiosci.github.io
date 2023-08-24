@@ -5,58 +5,90 @@
       value: Robin Isadora Brown
     - name: Pronouns
       value: she/her/hers
+    - name: Email
+      value: <a href="mailto:robin.brown@virginia.edu">robin.brown[at]virginia.edu</a>
+    - name: Office
+      value: Gilmer 438
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: Doctor of Philosophy
       institution: University of Virginia, Charlottesville, VA (US)
       year: 2017 - present
       description:
-        - Department of Biology
-        - Molecular Genetics, Cell, & Developmental Biology concentration
+        - Department of Biology <br>Molecular Genetics, Cell, & Developmental Biology concentration
 
-    - title: BA
+    - title: Bachelor of Arts
       institution: University of Virginia, Charlottesville, VA (US)
       year: 2010 - 2014
-      description:
-        - Department of Biology
-        - <i>summa cum laude</i>
+      description: Department of Biology <br><i>summa cum laude</i>
 
 - title: Research Experience
   type: time_table
   contents:
-    - title: Graduate Student Researcher
+    - title: Doctoral Researcher (<a href="https://bio.as.virginia.edu/people/sk4ub">S Kucenas Lab</a>)
       institution: Biology, University of Virginia
       year: 2018 - present
       description:
-        - Sarah Kucenas
+        - <i>development and function of satellite glial cells; somatosensory dysfunction; zebrafish</i>
 
-    - title: Lab Specialist
-      institution: Pediatrics, University of Virginia School of Medicine
+    - title: Research Specialist (<a href="https://med.virginia.edu/chrc/key-investigators/r-ariel-gomez-md/">RA Gomez Lab</a>)
+      institution: Pediatrics, Child Health Research Center, University of Virginia School of Medicine
       year: 2015 - 2017
       description:
-        - R. Ariel Gomez
+        - <i>kidney development; renin-angiotensin system regulation; scRNA-seq; mouse; cell culture</i>
 
-    - title: Research Technician
+    - title: Research Technician (<a href=https://molecularbiosci.utexas.edu/directory/david-s-stein">DS Stein Lab</a>)
       institution: Molecular Biosciences, University of Texas at Austin
       year: 2014 - 2017
       description:
-        - David S. Stein
+        - <i>body plan development; dorsal-ventral and terminal signaling; fruit fly</i>
 
-    - title: Undergraduate Student Researcher
+    - title: Undergraduate Student Researcher (<a href="https://plantandmicrobiology.berkeley.edu/profile/benjamin-blackman-phd">BK Blackman Lab</a>)
       institution: Biology, University of Virginia
       year: 2012 - 2014
       description:
-        - Benjamin Blackman
+        - <i>plant development; physiological and ecological effects of floral head orientation; domesticated sunflower</i>
+
+
+- title: Teaching Experience
+  type: time_table
+  contents:
+    - year: 2023
+      items: 
+        - Teaching Assistant for <i>BIOL 3000 Cell Biology</i>
+        - Invited Speaker for Max Planck Florida Institute for Neuroscience NeuroMEETS <i>(Neuroscience Meetings for Extramural Emerging TalentS)</i>
+        - Invited Speaker for Jefferson Scholars Foundation Fellows' Symposium Series
+        - Invited Lecturer for <i>BIOL 3260 Editing Genes and Genomes</i>
+    - year: 2022
+      items: 
+        - Invited Speaker for Charlottesville High School Science + Art Collaboration
+        - Invited Lecturer for <i>BIOL 8240 Professional Skills for the Life Sciences I</i>
+        - Invited Lecturer for <i>BIOL 3559 Editing Genes and Genomes</i>
+    - year: 2019
+      items:
+        - Teaching Assistant for <i>BIOL 3420 Human Anatomy & Physiology II</i>
+    - year: 2018
+      items: 
+        - Teaching Assistant for <i>BIOL 3420 Human Anatomy & Physiology II</i>
+    - year: 2017
+      items:
+        - Panelist for "Social Justice Work and Academia" session <i>(UVA Diversifying Scholarship Conference)</i>
+
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 
+    - year: 2022
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 
+        - JSF Dissertation Year Fellowship <i>(Jefferson Scholars Foundation)</i>
+        - SDB Travel Award <i>(Society for Developmental Biology)</i>
+        - Britt Travel Award <i>(UVA Biology)</i>
+    - year: 2019
       items: 
-        - Max Planck Medal
+        - Distinguished Graduate Mentoring Award <i>(UVA Biology)</i>
+        - NIG-JOINT Grant <i>(National Institute of Genetics, Japan)</i>
+
+
+
