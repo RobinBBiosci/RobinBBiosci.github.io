@@ -5,8 +5,10 @@
       value: Robin Isadora Brown
     - name: Pronouns
       value: she/her/hers
-    - name: Email
+    - name: Professional Email
       value: <a href="mailto:robin.brown@virginia.edu">robin.brown[at]virginia.edu</a>
+    - name: Personal Email
+      value: <a href="mailto:robin.isadora.b@gmail.com">robin.isadora.b[at]gmail.com</a>
     - name: Office
       value: Gilmer 438
 
