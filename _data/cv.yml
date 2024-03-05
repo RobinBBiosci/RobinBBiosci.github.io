@@ -17,7 +17,7 @@
   contents:
     - title: Doctor of Philosophy
       institution: University of Virginia, Charlottesville, VA (US)
-      year: 2017 - present
+      year: 2017 - 2024
       description:
         - Department of Biology <br>Molecular Genetics, Cell, & Developmental Biology concentration
 
@@ -59,14 +59,12 @@
   contents:
     - year: 2024
       items:
-        - Invited Speaker for Huskey Graduate Research Exhibition <i>(UVA Graduate Student Council)</i>
         - Invited Lecturer for <i>BIOL 3260 Editing Genes and Genomes</i>
         - Teaching Assistant for <i> BIOL 3000 Cell Biology</i>
     - year: 2023
       items: 
         - Invited Speaker for Charlottesville High School Science + Art Collaboration
         - Teaching Assistant for <i>BIOL 3000 Cell Biology</i>
-        - Invited Speaker for Max Planck Florida Institute for Neuroscience NeuroMEETS <i>(Neuroscience Meetings for Extramural Emerging TalentS)</i>
         - Invited Speaker for Jefferson Scholars Foundation Fellows' Symposium Series
         - Invited Lecturer for <i>BIOL 3260 Editing Genes and Genomes</i>
     - year: 2022
@@ -88,6 +86,12 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    -year: 2024
+      items:
+        - Invited Speaker for Huskey Graduate Research Exhibition <i>(UVA Graduate Student Council)</i>
+    - year: 2023
+      items:
+        - Invited Speaker for Max Planck Florida Institute for Neuroscience NeuroMEETS <i>(Neuroscience Meetings for Extramural Emerging TalentS)</i>
     - year: 2022
       items: 
         - JSF Dissertation Year Fellowship <i>(Jefferson Scholars Foundation)</i>
