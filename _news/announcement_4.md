@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented my work at the <a href="http://gradcouncil.com/gradcouncilcom/huskey-exhibition-2024">2024 Huskey Graduate Research Exhibition</a> 🎤
+Invited to present my work at the <a href="http://gradcouncil.com/gradcouncilcom/huskey-exhibition-2024">2024 Huskey Graduate Research Exhibition</a> 🎤
