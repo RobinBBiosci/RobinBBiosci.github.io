@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 Presented my dissertation research at the <a href="http://gradcouncil.com/gradcouncilcom/huskey-exhibition-2024">2024 Huskey Graduate Research Exhibition</a> 
-<br>(<i>Fishing for clues in nerve regeneration: Satellite glial cells inhibit sensory neuron repair following central branch axotomy of dorsal root ganglia </i>)
+<br>(<i>Fishing for clues in nerve regeneration: Satellite glial cells inhibit sensory neuron repair </br>following central branch axotomy of dorsal root ganglia </i>)
