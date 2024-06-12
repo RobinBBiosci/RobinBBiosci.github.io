@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Candidate | University of Virginia | Kucenas Lab
+subtitle: Biological Researcher
 
 profile:
   align: right
