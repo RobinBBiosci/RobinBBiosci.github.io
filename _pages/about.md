@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 <br>
-Hello! I am a trans woman, a scientist, and a person that cares about people. I recently earned my Ph.D. working as a developmental neuroscientist in the Kucenas Lab at the University of Virginia. My research utilized larval zebrafish to study satellite glial cells and how they affect sensory neuron development, function, and regeneration after injury. 
+Hello! I am a queer woman, a scientist, and a person that cares about people. I recently earned my Ph.D. working as a developmental neuroscientist in the Kucenas Lab at the University of Virginia. My research utilized larval zebrafish to study satellite glial cells and how they affect sensory neuron development, function, and regeneration after injury. 
 
 Before neuroscience, my career led me through fields of sunflowers, the nascent body plans of flies, and the fibrotic kidneys of mice. The diversity of these projects has allowed me to cultivate a unique perspective and set of skills as a scientist. Some of my expertise include confocal microscopy, transgenic tool creation, molecular cloning, image analysis, and scientific communication. Many domains fuel my curiosity! Broadly, much of my passion originates from questions that meet at the intersections of evolution, development, neuroscience, health, behavior, ecology, and biological diversity. 
 
