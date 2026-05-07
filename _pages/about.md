@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Biological Researcher
+subtitle: <a href ="">Researcher & Educator</a>
 
 profile:
   align: right
