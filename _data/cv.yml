@@ -82,6 +82,9 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2026
+      items:
+        - Wikimedia Community Fund, Rapid Fund grant <i>(Wikimedia Foundation)</i>
     - year: 2025
       items:
         - Invited Speaker for Queering Wikipedia Conference <i>(Wikimedia LGBT+)</i>
