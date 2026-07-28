@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href =""><b>Researcher & Educator</b></a>
+subtitle: <b>Researcher • Educator • Communicator</b>
 
 profile:
   align: right
@@ -16,11 +16,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 <br>
-Hello! I am a queer woman, a scientist, and a person that cares about people. I recently earned my Ph.D. working as a developmental neuroscientist in the Kucenas Lab at the University of Virginia. My research utilized larval zebrafish to study satellite glial cells and how they affect sensory neuron development, function, and regeneration after injury. 
+Hi, I'm Robin! I am a research scientist, educator, and person that cares about people. I recently earned my Ph.D. as a developmental neuroscientist in the Kucenas Lab at the University of Virginia, where I focused on satellite glial cells and how they shape sensory neuron development, function, and regeneration after injury. 
 
-Before neuroscience, my career led me through fields of sunflowers, the nascent body plans of flies, and the fibrotic kidneys of mice. The diversity of these projects has allowed me to cultivate a unique perspective and set of skills as a scientist. Some of my expertise include confocal microscopy, transgenic tool creation, molecular cloning, image analysis, and scientific communication. Many domains fuel my curiosity! Broadly, much of my passion originates from questions that meet at the intersections of evolution, development, neuroscience, health, behavior, ecology, and biological diversity. 
+Before neuroscience, my research took me through fields of sunflowers, the early body plans of fruit flies, and the fibrotic kidneys of mice. The diversity of these projects has allowed me to cultivate a unique perspective, an adaptable toolkit (including expertise in microscopy, transgenic tool design, molecular cloning, image analysis, scientific communication), and a habit of asking questions that live at the intersections of evolution, development, neuroscience, health, behavior, and biological diversity.
 
-I am currently on the job market searching for opportunities that challenge my comfort zone and expand my professional training as a researcher, communicator, and educator.
+I am actively seeking opportunities in research, science communication, and education (ideally some combination of the three) where I can keep asking important questions, work alongside curious collaborators, and help translate our work for the betterment of others. **If that sounds like a fit, I'd love to hear from you.** You can find my publications, a bit of my CV, and ways to reach me around this site.
 
-Like most people, I have non-science interests. I bird! I dance! I bike! I crave horror films! I jump around at loud concerts! Seriously, I really like birds! This site hosts my personal updates, peer-reviewed publications, contact info, and a minimal CV. Stay tuned for further changes and maybe some pleasant pictures of passing passeriforms.
+Outside the lab, I'm usually birding, dancing, biking, attending a loud concert, or watching a horror movie (often more than one of these a day). You can also catch me editing English Wikipedia, Wikidata, and Wikimedia Commons as an active contributor to the Wikimedia movement and open knowledge advocate.
 <br>
