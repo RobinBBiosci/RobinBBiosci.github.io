@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <b>Researcher • Educator • Communicator</b>
+subtitle: <b><a href="">Researcher • Educator • Communicator</a></b>
 
 profile:
   align: right
