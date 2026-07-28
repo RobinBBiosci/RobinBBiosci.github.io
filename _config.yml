@@ -5,7 +5,7 @@
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Robin
 middle_name: Isadora
-last_name: Brown, Ph.D.
+last_name: Brown, PhD
 email: robin.isadora.b@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Researcher and educator with expertise in neuroscience, genetics, molecular biology, cell biology, developmental biology, and data analysis.
